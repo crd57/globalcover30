@@ -56,7 +56,9 @@
 
 ​	采用空间数据二级抽样检验模型进行精度验证，总共抽取检验图幅84幅，选取精度验证样本点约16万个。经计算，GlobeLand30数据的总体精度为80.33%。Kappa系数0.75 。
 
-![](D:\crd\Pictures\最低分类精度与最小图斑.png)
+![](https://raw.githubusercontent.com/crd57/globalcover30/master/%E6%9C%80%E4%BD%8E%E5%88%86%E7%B1%BB%E7%B2%BE%E5%BA%A6%E4%B8%8E%E6%9C%80%E5%B0%8F%E5%9B%BE%E6%96%91.png)
+
+
 
 
 
