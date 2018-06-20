@@ -1,3 +1,3 @@
 # globalcover30
 
-这Globalcover30数据的介绍及用法
+这Globallandcover-30数据的介绍及用法
