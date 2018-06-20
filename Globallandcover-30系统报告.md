@@ -47,7 +47,9 @@
 
    全球共853幅 
 
-   ![](D:\crd\Pictures\glc30-2010分幅示意图.jpg)
+   ![](https://raw.githubusercontent.com/crd57/globalcover30/master/glc30-2010%E5%88%86%E5%B9%85%E7%A4%BA%E6%84%8F%E5%9B%BE.jpg)
+
+   
 
 
 ## 分类精度
