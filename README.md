@@ -1,1 +1,3 @@
 # globalcover30
+
+这公司Globalcover30数据的介绍及用法
